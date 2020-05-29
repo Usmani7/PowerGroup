@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1019376917153",
+    "firebase_url": "https://powergroup-892d1.firebaseio.com",
+    "project_id": "powergroup-892d1",
+    "storage_bucket": "powergroup-892d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019376917153:android:e943db960fa54e2b",
+        "android_client_info": {
+          "package_name": "com.example.powergroup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019376917153-8hcjjvbbgpf4mra8vuv0t3ib7pl36fmm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoBMHX09j0mXMfV4wJ2t4oVNGParjkkys"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
